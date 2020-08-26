@@ -1,10 +1,8 @@
 
 import java.util.ArrayList;
 
-/**
- * @author Monthe Christopher Raoul
- *This is a MorseCodeTree which is specifically used for the conversion of morse code to english
- */
+ //This is a MorseCodeTree which is specifically used for the conversion of morse code to english
+ 
 public class MorseCodeTree implements LinkedConverterTreeInterface<String> {
 	private TreeNode<String> root;
 
