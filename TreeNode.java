@@ -1,7 +1,6 @@
 
 /**
- * @author Monthe Chris Raoul
- *TreeNode class that will have object used for conversion
+ *TreeNode class that will have the object used for conversion
  * @param <T>
  */
 public class TreeNode<T> {
