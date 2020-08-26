@@ -3,10 +3,7 @@ import java.io.FileNotFoundException;
 import java.util.*;
 import java.util.Scanner;
 
-/**
- * @author Monthe Christopher Raoul
- *A class that has several methods to convert morsecode to english and vice versa
- */
+ //A class that has several methods to convert morsecode to english and vice versa
 public class MorseCodeConverter {
 	//creating and initialize an object of type MorseCodeTree
 	MorseCodeTree m = new MorseCodeTree();
