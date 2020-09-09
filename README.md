@@ -1,3 +1,3 @@
 Project from CS 204 at Montgomery College
-# This is a program that will convert a text into morse code and vice versa.
-# It uses JavaFX to illustrate this, and it can convert an existing text file into morse code.
+# This is a program that will convert a morse code text into english text
+# It uses JavaFX to illustrate this, and it can convert an existing file into english text
