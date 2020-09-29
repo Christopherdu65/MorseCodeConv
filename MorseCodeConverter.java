@@ -25,7 +25,7 @@ public class MorseCodeConverter {
 	/**
 	 * Converts Morse code into English
 	 * @param code the string to be return in english
-	 * @return the string in english
+	 * @return english text
 	 */
 	public String convertToEnglish(String code) {
 		String result = "";
